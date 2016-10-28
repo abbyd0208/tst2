@@ -163,6 +163,8 @@ linear-gradient(135deg,  rgba(253,188,79,1) 50%,rgba(255,255,255,0) 80%);
 .c1 .box_right{ width:54%; float:right; padding:10px;}
 .c1 .box_right .content{}
 .c1 .box_right .content span.logo_2{ display:block; margin-bottom:20px;}
+.c1 .box_right .content img{ margin-right:10px;}
+.c1 .box_right .content img.arrow{ width:60px; height:auto;}
 .c1 .box_right .content img.hnd{ width:60px; height:58px;}
 .c1 .box_right .content img.tst{ width:130px; height:58px;}
 
